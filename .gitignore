@@ -1,0 +1,8 @@
+.idea
+*.pyc
+*~
+__pycahce__
+venv
+myvenv
+db.sclite3
+.DS_Store
